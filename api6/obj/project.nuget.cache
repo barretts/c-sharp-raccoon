@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vrj164JPnaTQ4cKRWwldE1qjqtChny4RQ+INCL2JDRjzwxb6wnFh5Xm3D1jWIsQNjgpQJ22C9gFGkd8VO2YZLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Barrett\\Documents\\GitHub\\c-sharp-raccoon\\api6\\api6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Barrett\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Barrett\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Barrett\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Barrett\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Barrett\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Barrett\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
